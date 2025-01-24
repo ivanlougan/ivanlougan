@@ -20,7 +20,7 @@ Excited to share updates as the project evolves! 🚧
 
 ## 📈Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,ts,spring,react,express,html,css,postgres,git,jest,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,ts,spring,react,express,html,css,postgres,mongodb,git,jest,idea,vscode)](https://skillicons.dev)
 
 ## 📚 Most Used Languages
 
