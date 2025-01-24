@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 
 
-<!--
-**ivanlougan/ivanlougan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Robert  💻 ⚽ ☕ 🦫
 
-Here are some ideas to get you started:
+🌟 Full-Stack Developer with a strong passion for problem-solving and continuous learning.<br>
+🚀 Recently graduated from Northcoders' Software Development Bootcamp.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 Open to Work
+
+⚡ Actively seeking new opportunities as a Software/Web Developer.<br>
+💼 Available for: Full-time, freelance, or remote roles.<br>
+
+## 💡 Learning Journey
+
+👨‍🎓 Currently learning **TypeScript** and more about **CSS Animations**<br>
+👷 I'm working on a **new website project** that will showcase my skills in a visually engaging way.  
+The project is in the **planning and design phase**, and I'm exploring the best tools and technologies to build it.<br>
+
+Excited to share updates as the project evolves! 🚧
+
+## 📈Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=js,java,ts,spring,react,express,html,css,postgres,git,jest,idea,vscode)](https://skillicons.dev)
+
+## 📚 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlougan&layout=compact&theme=radical)
+
