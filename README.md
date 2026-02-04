@@ -12,11 +12,10 @@
 
 ## 💡 Learning Journey
 
-👨‍🎓 Currently learning **TypeScript** and more about **CSS Animations**<br>
-👷 I'm working on a **new website project** that will showcase my skills in a visually engaging way.  
-The project is in the **planning and design phase**, and I'm exploring the best tools and technologies to build it.<br>
+👨‍🎓 Currently learning **TypeScript** and diving deeper into **CSS animations**  
+👷 Recently built a **responsive website** for a company in Poland, showcasing my skills in a visually engaging way  
+🌐 Live demo: www.rudnar.pl
 
-Excited to share updates as the project evolves! 🚧
 
 ## 📈Skills 
 
