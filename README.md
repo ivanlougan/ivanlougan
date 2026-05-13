@@ -7,7 +7,7 @@
 
 ## 👀 Open to Work
 
-⚡ Actively seeking new opportunities as a Software/Web Developer.<br>
+⚡ Actively seeking new opportunities as a Software/Web/Full-Stack Developer.<br>
 💼 Available for: Full-time, freelance, or remote roles.<br>
 
 ## 💡 Learning Journey
