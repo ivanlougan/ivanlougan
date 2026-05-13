@@ -23,5 +23,4 @@
 
 ## 📚 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ivanlougan&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ivanlougan&layout=compact&theme=radical&cache_seconds=1800)
