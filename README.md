@@ -12,7 +12,7 @@
 
 ## 💡 Learning Journey
 
-👨‍🎓 Currently learning **TypeScript** and diving deeper into **CSS animations**  
+👨‍🎓 Currently learning **Python** and diving deeper into **Spring Boot**  
 👷 Recently built a **responsive website** for a company in Poland, showcasing my skills in a visually engaging way  
 🌐 Live demo: www.rudnar.pl
 
@@ -23,5 +23,5 @@
 
 ## 📚 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlougan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ivanlougan&layout=compact&theme=radical)
 
